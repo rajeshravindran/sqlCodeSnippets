@@ -1,0 +1,12 @@
+--/TO START MYSQL IN UBUNTU
+sudo service mysql start
+
+--/TO STOP MYSQL SERVER 
+sudo service mysql stop
+
+--/TO LOGON TO MYSQL SERVER
+mysql -u <username> -p 
+will be prompted for a password
+
+
+
